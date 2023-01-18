@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/IsabekovaElina//expense-tracker-filter5.1.io/static/css/main.f01c2723.css",
-    "main.js": "/IsabekovaElina//expense-tracker-filter5.1.io/static/js/main.f4ee40af.js",
-    "index.html": "/IsabekovaElina//expense-tracker-filter5.1.io/index.html",
-    "main.f01c2723.css.map": "/IsabekovaElina//expense-tracker-filter5.1.io/static/css/main.f01c2723.css.map",
-    "main.f4ee40af.js.map": "/IsabekovaElina//expense-tracker-filter5.1.io/static/js/main.f4ee40af.js.map"
+    "main.css": "/IsabekovaElina.github.io/expense-tracker-filter5.1/static/css/main.f01c2723.css",
+    "main.js": "/IsabekovaElina.github.io/expense-tracker-filter5.1/static/js/main.f4ee40af.js",
+    "index.html": "/IsabekovaElina.github.io/expense-tracker-filter5.1/index.html",
+    "main.f01c2723.css.map": "/IsabekovaElina.github.io/expense-tracker-filter5.1/static/css/main.f01c2723.css.map",
+    "main.f4ee40af.js.map": "/IsabekovaElina.github.io/expense-tracker-filter5.1/static/js/main.f4ee40af.js.map"
   },
   "entrypoints": [
     "static/css/main.f01c2723.css",
